@@ -1,0 +1,15 @@
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\bin\Debug\net6.0\Autokezelo alkalmazas.exe
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\bin\Debug\net6.0\Autokezelo alkalmazas.deps.json
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\bin\Debug\net6.0\Autokezelo alkalmazas.runtimeconfig.json
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\bin\Debug\net6.0\Autokezelo alkalmazas.dll
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\bin\Debug\net6.0\Autokezelo alkalmazas.pdb
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\Autokezelo alkalmazas.csproj.AssemblyReference.cache
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\Autokezelo alkalmazas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\Autokezelo alkalmazas.AssemblyInfoInputs.cache
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\Autokezelo alkalmazas.AssemblyInfo.cs
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\Autokezelo alkalmazas.csproj.CoreCompileInputs.cache
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\Autokezelo alkalmazas.dll
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\refint\Autokezelo alkalmazas.dll
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\Autokezelo alkalmazas.pdb
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\Autokezelo alkalmazas.genruntimeconfig.cache
+C:\Users\hpete\OneDrive\Asztali gép\ISKOLA\charp\Autokezelo alkalmazas\Autokezelo alkalmazas\obj\Debug\net6.0\ref\Autokezelo alkalmazas.dll
